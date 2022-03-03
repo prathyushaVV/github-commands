@@ -23,4 +23,3 @@ all the commands that are frequently used with it's function
 * git checkout -b [branch name] - create a new branch and switch to it
 * git checkout -b [branch name] origin/[branch name] - clone a remote branch and switch to it
 * git branch -m [old branch name] [new branch name] - rename a local branch
-* 
