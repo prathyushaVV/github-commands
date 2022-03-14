@@ -24,7 +24,7 @@ all the commands that are frequently used with it's function
 * git checkout -b [branch name] origin/[branch name] - clone a remote branch and switch to it
 * git branch -m [old branch name] [new branch name] - rename a local branch
 * git checkout [branch name] - switch to a branch
-* git checkout -    - switch to the branch last checkedout
+* git checkout -    : switch to the branch last checkedout
 * git checkout --[filename.txt] - discard changes to a file
 * git merge [branch] - merge branch into a active branch
 * git merge [source branch] [target branch] - merge a brach into target branch
